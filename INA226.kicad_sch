@@ -1,0 +1,535 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "650f17c7-23a1-471d-8e0a-b6e242d45e99")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Sensor_Energy:INA226"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -6.35 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "INA226"
+				(at 3.81 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_SO:VSSOP-10_3x3mm_P0.5mm"
+				(at 20.32 -11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina226.pdf"
+				(at 8.89 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "High-Side or Low-Side Measurement, Bi-Directional Current and Power Monitor (0-36V) with I2C Compatible Interface, VSSOP-10"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "ADC I2C 16-Bit Oversampling Current Shunt"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "VSSOP*3x3mm*P0.5mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "INA226_0_1"
+				(rectangle
+					(start 7.62 10.16)
+					(end -7.62 -10.16)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "INA226_1_1"
+				(pin input line
+					(at -10.16 7.62 0)
+					(length 2.54)
+					(name "Vbus"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -2.54 0)
+					(length 2.54)
+					(name "Vin+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -10.16 -5.08 0)
+					(length 2.54)
+					(name "Vin-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 12.7 270)
+					(length 2.54)
+					(name "VS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -12.7 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 7.62 180)
+					(length 2.54)
+					(name "A1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 5.08 180)
+					(length 2.54)
+					(name "A0"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 10.16 0 180)
+					(length 2.54)
+					(name "SDA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 10.16 -2.54 180)
+					(length 2.54)
+					(name "SCL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin open_collector line
+					(at 10.16 -7.62 180)
+					(length 2.54)
+					(name "~{Alert}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(wire
+		(pts
+			(xy 182.88 106.68) (xy 182.88 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc85a6bd-87f3-497f-ba98-fb724f7f4982")
+	)
+	(hierarchical_label "POT2SCL"
+		(shape bidirectional)
+		(at 129.54 127 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "295f1028-f832-413f-ab16-1df8fef1c093")
+	)
+	(hierarchical_label "POT1SDA"
+		(shape bidirectional)
+		(at 193.04 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "49b1ba69-1be6-4ce9-a502-5c8cf70e527f")
+	)
+	(hierarchical_label "POT1SCL"
+		(shape bidirectional)
+		(at 193.04 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "65d9a523-b047-4a5a-b35f-81831d5be5e8")
+	)
+	(hierarchical_label "POT2V"
+		(shape input)
+		(at 109.22 116.84 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "663add44-c0cf-400b-964d-2351af7a75c4")
+	)
+	(hierarchical_label "POT1V"
+		(shape input)
+		(at 172.72 115.57 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7a1218bf-7bfb-4c4e-9607-467666aaf88c")
+	)
+	(hierarchical_label "POT2SDA"
+		(shape bidirectional)
+		(at 129.54 124.46 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b7cbb2bb-e506-4aad-a05d-e2d2818a5912")
+	)
+	(symbol
+		(lib_id "Sensor_Energy:INA226")
+		(at 182.88 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "62b5c19d-5d2e-4e06-9e21-150310c06f30")
+		(property "Reference" "U5"
+			(at 185.0233 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "INA226"
+			(at 185.0233 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:VSSOP-10_3x3mm_P0.5mm"
+			(at 203.2 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina226.pdf"
+			(at 191.77 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "High-Side or Low-Side Measurement, Bi-Directional Current and Power Monitor (0-36V) with I2C Compatible Interface, VSSOP-10"
+			(at 182.88 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "10"
+			(uuid "25aa0523-27a2-47b6-9491-9a0a9b61a995")
+		)
+		(pin "3"
+			(uuid "8c6fcb8a-2673-4f19-aab6-be4ccf41a644")
+		)
+		(pin "4"
+			(uuid "a7785d41-2c9d-4c29-85b2-4e154050a332")
+		)
+		(pin "8"
+			(uuid "d8b06d1f-bac7-4663-9aa6-6ede6aeab5e3")
+		)
+		(pin "9"
+			(uuid "9f6d9181-e0d9-4b5d-b5eb-7454292b87d4")
+		)
+		(pin "6"
+			(uuid "81727960-018e-47fb-b177-3ec99200a6d2")
+		)
+		(pin "2"
+			(uuid "7c212fd4-834e-4a90-abc5-20075cc34a9d")
+		)
+		(pin "5"
+			(uuid "019b5176-0b5d-4143-b9c0-66669b90cc66")
+		)
+		(pin "1"
+			(uuid "287d7a2f-968e-4521-9467-1f205f43c67e")
+		)
+		(pin "7"
+			(uuid "959c3635-a884-443d-8ffc-300b9c25c590")
+		)
+		(instances
+			(project "MNAPcb"
+				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Sensor_Energy:INA226")
+		(at 119.38 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6d50b26c-a45f-45ca-a917-08fa60d97d08")
+		(property "Reference" "U8"
+			(at 121.5233 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "INA226"
+			(at 121.5233 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:VSSOP-10_3x3mm_P0.5mm"
+			(at 139.7 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina226.pdf"
+			(at 128.27 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "High-Side or Low-Side Measurement, Bi-Directional Current and Power Monitor (0-36V) with I2C Compatible Interface, VSSOP-10"
+			(at 119.38 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "10"
+			(uuid "10f915d9-b908-44e0-84f2-d92f74d2e89c")
+		)
+		(pin "3"
+			(uuid "5f09d0f3-56c3-46f1-861f-e8337c693498")
+		)
+		(pin "4"
+			(uuid "3f062e7d-8fd9-421f-9c90-5bc9902d3413")
+		)
+		(pin "8"
+			(uuid "12478a9c-2498-4b3b-a76a-04247a22a5b9")
+		)
+		(pin "9"
+			(uuid "a646edc0-82f1-4be3-833e-ba1e997ae980")
+		)
+		(pin "6"
+			(uuid "2db11489-a367-491d-9231-07f1edb85b3c")
+		)
+		(pin "2"
+			(uuid "73fa788e-f333-4731-9c3b-9ff8c7831d59")
+		)
+		(pin "5"
+			(uuid "90811607-3d4e-4e74-924d-991965a8f772")
+		)
+		(pin "1"
+			(uuid "c487d362-bd64-4400-b03b-c2052b7985ae")
+		)
+		(pin "7"
+			(uuid "c2512aca-65a6-4f8f-97b4-fe29915a3ee8")
+		)
+		(instances
+			(project "MNAPcb"
+				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
+					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+)

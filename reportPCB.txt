@@ -1,0 +1,1046 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'D6:Diode_SMD:D_SMA_Handsoldering'.
+Info: Processing symbol 'R14:'.
+Info: Processing symbol 'D11:'.
+Info: Processing symbol 'D3:Diode_SMD:D_SMA_Handsoldering'.
+Info: Processing symbol 'R13:'.
+Info: Processing symbol 'FB1:Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder'.
+Info: Processing symbol 'R2:Resistor_SMD:R_1225_3264Metric_Pad1.47x6.45mm_HandSolder'.
+Info: Processing symbol 'J7:'.
+Info: Processing symbol 'R10:'.
+Info: Processing symbol 'L1:'.
+Info: Processing symbol 'C28:'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'R33:'.
+Info: Processing symbol 'C29:Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder'.
+Info: Processing symbol 'R9:'.
+Info: Processing symbol 'J6:Connector_Coaxial:SMA_Amphenol_132289_EdgeMount'.
+Info: Processing symbol 'D7:Diode_SMD:D_SMA_Handsoldering'.
+Info: Processing symbol 'L2:'.
+Info: Processing symbol 'R8:'.
+Info: Processing symbol 'D4:Diode_SMD:D_SMA_Handsoldering'.
+Info: Processing symbol 'L3:'.
+Info: Processing symbol 'J5:Connector_Coaxial:SMA_Amphenol_132289_EdgeMount'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'FB2:Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'R7:'.
+Info: Processing symbol 'L4:'.
+Info: Processing symbol 'C30:'.
+Info: Processing symbol 'R32:'.
+Info: Processing symbol 'C31:'.
+Info: Processing symbol 'R31:'.
+Info: Processing symbol 'C32:'.
+Info: Processing symbol 'R30:'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C33:'.
+Info: Processing symbol 'R29:'.
+Info: Processing symbol 'C34:'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'R28:'.
+Info: Processing symbol 'C35:'.
+Info: Processing symbol 'R27:'.
+Info: Processing symbol 'C36:'.
+Info: Processing symbol 'R26:'.
+Info: Processing symbol 'C37:'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'R25:'.
+Info: Processing symbol 'C38:'.
+Info: Processing symbol 'R24:'.
+Info: Processing symbol 'C39:'.
+Info: Processing symbol 'R23:'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C40:'.
+Info: Processing symbol 'R22:'.
+Info: Processing symbol 'C41:'.
+Info: Processing symbol 'R21:'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C42:'.
+Info: Processing symbol 'R20:'.
+Info: Processing symbol 'C43:'.
+Info: Processing symbol 'R19:'.
+Info: Processing symbol 'C44:'.
+Info: Processing symbol 'R18:'.
+Info: Processing symbol 'C45:'.
+Info: Processing symbol 'C16:'.
+Info: Processing symbol 'U6:Package_SO:VSSOP-10_3x3mm_P0.5mm'.
+Info: Processing symbol 'C17:'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'U5:TPS54202DDCR:SOT95P280X110-6N'.
+Info: Processing symbol 'C18:'.
+Info: Processing symbol 'U4:Package_SO:VSSOP-10_3x3mm_P0.5mm'.
+Info: Processing symbol 'C19:'.
+Info: Processing symbol 'U3:Package_SO:VSSOP-10_3x3mm_P0.5mm'.
+Info: Processing symbol 'C20:'.
+Info: Processing symbol 'U2:Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead5.84mm_TabDown'.
+Info: Processing symbol 'C21:'.
+Info: Total warnings: 2, errors: 76.
+Info: Processing symbol 'C22:'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'U1:Package_QFP:LQFP-100_14x14mm_P0.5mm'.
+Info: Processing symbol 'C23:'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_PUSH_6mm_H7.3mm'.
+Info: Processing symbol 'C24:'.
+Info: Processing symbol 'R34:'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder'.
+Info: Processing symbol 'R17:'.
+Info: Processing symbol 'C46:'.
+Info: Processing symbol 'R16:'.
+Info: Processing symbol 'D1:Diode_SMD:D_SMA_Handsoldering'.
+Info: Processing symbol 'R6:'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'PS2:LMS78_15-1.0R:CONV_LMS78_15-1.0R'.
+Info: Processing symbol 'J3:'.
+Info: Processing symbol 'D8:Diode_SMD:D_SMA_Handsoldering'.
+Info: Processing symbol 'R11:'.
+Info: Processing symbol 'J4:Connector_Coaxial:SMA_Amphenol_132289_EdgeMount'.
+Info: Processing symbol 'D5:Diode_SMD:D_SMA_Handsoldering'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder'.
+Info: Processing symbol 'R5:'.
+Info: Processing symbol 'PS3:LMS78_15-1.0R:CONV_LMS78_15-1.0R'.
+Info: Processing symbol 'R4:'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'R1:Resistor_SMD:R_1225_3264Metric_Pad1.47x6.45mm_HandSolder'.
+Info: Processing symbol 'D2:Diode_SMD:D_SMA_Handsoldering'.
+Info: Processing symbol 'R3:'.
+Info: Processing symbol 'J1:'.
+Info: Processing symbol 'R12:'.
+Info: Processing symbol 'J2:Connector_Dsub:DSUB-15_Socket_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm'.
+Info: Processing symbol 'D9:'.
+Info: Processing symbol 'R15:'.
+Info: Processing symbol 'C27:Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder'.
+Info: Processing symbol 'D10:'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'U7:Package_SO:VSSOP-10_3x3mm_P0.5mm'.
+Info: Processing symbol 'U8:TPS54202DDCR:SOT95P280X110-6N'.
+Info: Processing symbol 'U9:Package_SO:SSOP-28_5.3x10.2mm_P0.65mm'.
+Info: Processing symbol 'U10:Package_TO_SOT_SMD:SOT-23-6'.
+Info: Processing symbol 'U11:Package_SO:VSSOP-10_3x3mm_P0.5mm'.
+Info: Processing symbol 'U12:Package_SO:VSSOP-10_3x3mm_P0.5mm'.
+Info: Processing symbol 'U13:Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm'.
+Info: Processing symbol 'U14:TPS54202DDCR:SOT95P280X110-6N'.
+Info: Processing symbol 'Y1:'.
+Connected C1 pin 2 to GND.
+Add net +3.3V.
+Connected C1 pin 1 to +3.3V.
+Added C2 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C2.
+Changed C2 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 100n.
+Updated C2 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/eb187c44-ad7d-413a-ba3e-986a8c33ace3.
+Updated C2 fields.
+Updated C2 sheetname to '/MCU/'.
+Updated C2 sheetfile to 'MCU.kicad_sch'.
+Updated C2 footprint filters to 'C_*'.
+Connected C2 pin 1 to +3.3V.
+Connected C2 pin 2 to GND.
+Added C3 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C3.
+Changed C3 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 100n.
+Updated C3 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/ce126b74-b08b-4974-90bd-e7f1638f44d7.
+Updated C3 fields.
+Updated C3 sheetname to '/MCU/'.
+Updated C3 sheetfile to 'MCU.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Connected C3 pin 2 to GND.
+Connected C3 pin 1 to +3.3V.
+Added C4 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C4.
+Changed C4 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 100n.
+Updated C4 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/cb14e2e8-4577-40e3-a544-46f75c360f16.
+Updated C4 fields.
+Updated C4 sheetname to '/MCU/'.
+Updated C4 sheetfile to 'MCU.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Connected C4 pin 1 to +3.3V.
+Connected C4 pin 2 to GND.
+Added C5 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C5.
+Changed C5 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 100n.
+Updated C5 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/f8a1b46d-00f6-4dd8-baa7-8db9cbbc7275.
+Updated C5 fields.
+Updated C5 sheetname to '/MCU/'.
+Updated C5 sheetfile to 'MCU.kicad_sch'.
+Updated C5 footprint filters to 'C_*'.
+Connected C5 pin 1 to +3.3V.
+Connected C5 pin 2 to GND.
+Added C6 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C6.
+Changed C6 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 100n.
+Updated C6 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/6120d2a3-d069-4b3f-ab85-f2be7ba83cbe.
+Updated C6 fields.
+Updated C6 sheetname to '/MCU/'.
+Updated C6 sheetfile to 'MCU.kicad_sch'.
+Updated C6 footprint filters to 'C_*'.
+Connected C6 pin 2 to GND.
+Connected C6 pin 1 to +3.3V.
+Added C7 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C7.
+Changed C7 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 10u.
+Updated C7 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/28a9da2e-1ed2-4ab9-8e98-553cb8cc6962.
+Updated C7 fields.
+Updated C7 sheetname to '/MCU/'.
+Updated C7 sheetfile to 'MCU.kicad_sch'.
+Updated C7 footprint filters to 'C_*'.
+Connected C7 pin 1 to +3.3V.
+Connected C7 pin 2 to GND.
+Added C8 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C8.
+Changed C8 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 10n.
+Updated C8 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/c80e8fcc-d4ba-4b75-946e-22640688cfdb.
+Updated C8 fields.
+Updated C8 sheetname to '/MCU/'.
+Updated C8 sheetfile to 'MCU.kicad_sch'.
+Updated C8 footprint filters to 'C_*'.
+Add net +3.3VA.
+Connected C8 pin 1 to +3.3VA.
+Connected C8 pin 2 to GND.
+Added C9 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C9.
+Changed C9 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 1u.
+Updated C9 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/43af6fe7-18bd-4425-91d8-01afc10835de.
+Updated C9 fields.
+Updated C9 sheetname to '/MCU/'.
+Updated C9 sheetfile to 'MCU.kicad_sch'.
+Updated C9 footprint filters to 'C_*'.
+Connected C9 pin 2 to GND.
+Connected C9 pin 1 to +3.3VA.
+Added C10 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C10.
+Changed C10 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 1u.
+Updated C10 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/50e6dd45-d6b6-40a1-b9c8-e1780aa021c1.
+Updated C10 fields.
+Updated C10 sheetname to '/MCU/'.
+Updated C10 sheetfile to 'MCU.kicad_sch'.
+Updated C10 footprint filters to 'C_*'.
+Connected C10 pin 1 to +3.3V.
+Connected C10 pin 2 to GND.
+Added C11 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C11.
+Changed C11 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 100n.
+Updated C11 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/01479965-4de6-42b1-aa9d-cc91e4805dcf.
+Updated C11 fields.
+Updated C11 sheetname to '/MCU/'.
+Updated C11 sheetfile to 'MCU.kicad_sch'.
+Updated C11 footprint filters to 'C_*'.
+Connected C11 pin 2 to GND.
+Add net /MCU/NRST.
+Connected C11 pin 1 to /MCU/NRST.
+Added C12 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C12.
+Changed C12 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 16p.
+Updated C12 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/20f861cd-a7e6-4836-89ad-170d4259c3e0.
+Updated C12 fields.
+Updated C12 sheetname to '/MCU/'.
+Updated C12 sheetfile to 'MCU.kicad_sch'.
+Updated C12 footprint filters to 'C_*'.
+Connected C12 pin 2 to GND.
+Add net Net-(U1-PH1).
+Connected C12 pin 1 to Net-(U1-PH1).
+Added C13 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C13.
+Changed C13 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 16p.
+Updated C13 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/bb15a718-e45d-4381-b63e-9db30a77852e.
+Updated C13 fields.
+Updated C13 sheetname to '/MCU/'.
+Updated C13 sheetfile to 'MCU.kicad_sch'.
+Updated C13 footprint filters to 'C_*'.
+Add net Net-(U1-PH0).
+Connected C13 pin 1 to Net-(U1-PH0).
+Connected C13 pin 2 to GND.
+Added C14 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C14.
+Changed C14 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 2.2u.
+Updated C14 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/d5e3f6f5-19db-4529-9604-88a8c37cc406.
+Updated C14 fields.
+Updated C14 sheetname to '/MCU/'.
+Updated C14 sheetfile to 'MCU.kicad_sch'.
+Updated C14 footprint filters to 'C_*'.
+Connected C14 pin 2 to GND.
+Add net Net-(U1-VCAP_2).
+Connected C14 pin 1 to Net-(U1-VCAP_2).
+Added C15 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Changed REF** reference designator to C15.
+Changed C15 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 2.2u.
+Updated C15 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/96a6c763-2b1a-458d-98ab-ee96e2a418c3.
+Updated C15 fields.
+Updated C15 sheetname to '/MCU/'.
+Updated C15 sheetfile to 'MCU.kicad_sch'.
+Updated C15 footprint filters to 'C_*'.
+Connected C15 pin 1 to GND.
+Add net Net-(U1-VCAP_1).
+Connected C15 pin 2 to Net-(U1-VCAP_1).
+Added C25 (footprint 'Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder').
+Changed REF** reference designator to C25.
+Changed C25 value from C_1210_3225Metric_Pad1.33x2.70mm_HandSolder to 10u/50v.
+Updated C25 symbol association from  to /1430bab7-d0d3-4658-81cb-f409abdb7ec2/fe56beb0-ee48-4b65-ac6b-dffa3a629eff.
+Updated C25 fields.
+Updated C25 sheetname to '/Power/'.
+Updated C25 sheetfile to 'Power.kicad_sch'.
+Updated C25 footprint filters to 'C_*'.
+Connected C25 pin 2 to GND.
+Add net +24V.
+Connected C25 pin 1 to +24V.
+Added C26 (footprint 'Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder').
+Changed REF** reference designator to C26.
+Changed C26 value from C_1210_3225Metric_Pad1.33x2.70mm_HandSolder to 10u/25v.
+Updated C26 symbol association from  to /1430bab7-d0d3-4658-81cb-f409abdb7ec2/9776bbbb-7e3a-4d9b-8850-2090c53d040f.
+Updated C26 fields.
+Updated C26 sheetname to '/Power/'.
+Updated C26 sheetfile to 'Power.kicad_sch'.
+Updated C26 footprint filters to 'C_*'.
+Connected C26 pin 2 to GND.
+Add net +15V.
+Connected C26 pin 1 to +15V.
+Added C27 (footprint 'Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder').
+Changed REF** reference designator to C27.
+Changed C27 value from C_1210_3225Metric_Pad1.33x2.70mm_HandSolder to 10u/25v.
+Updated C27 symbol association from  to /1430bab7-d0d3-4658-81cb-f409abdb7ec2/bd41f1ec-facf-42ab-a280-38bdd4b8ef5a.
+Updated C27 fields.
+Updated C27 sheetname to '/Power/'.
+Updated C27 sheetfile to 'Power.kicad_sch'.
+Updated C27 footprint filters to 'C_*'.
+Connected C27 pin 1 to GND.
+Add net -15V.
+Connected C27 pin 2 to -15V.
+Added C29 (footprint 'Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder').
+Changed REF** reference designator to C29.
+Changed C29 value from C_1210_3225Metric_Pad1.33x2.70mm_HandSolder to 10u/50v.
+Updated C29 symbol association from  to /1430bab7-d0d3-4658-81cb-f409abdb7ec2/6119b21d-3b7f-4088-b746-9682959d00ed.
+Updated C29 fields.
+Updated C29 sheetname to '/Power/'.
+Updated C29 sheetfile to 'Power.kicad_sch'.
+Updated C29 footprint filters to 'C_*'.
+Add net Net-(PS3-+VIN).
+Connected C29 pin 2 to Net-(PS3-+VIN).
+Connected C29 pin 1 to GND.
+Added D1 (footprint 'Diode_SMD:D_SMA_Handsoldering').
+Changed REF** reference designator to D1.
+Changed D1 value from D_SMA_Handsoldering to SS36.
+Updated D1 symbol association from  to /5bf66ccc-d8c4-497c-9c2a-0c0815074f50/e8b546c0-a1d6-4117-8da9-678476c3cfe6.
+Updated D1 fields.
+Updated D1 sheetname to '/L298/'.
+Updated D1 sheetfile to 'L298.kicad_sch'.
+Updated D1 footprint filters to 'D*SMA*'.
+Add net /L298/OUT1.
+Connected D1 pin 2 to /L298/OUT1.
+Connected D1 pin 1 to +15V.
+Added D2 (footprint 'Diode_SMD:D_SMA_Handsoldering').
+Changed REF** reference designator to D2.
+Changed D2 value from D_SMA_Handsoldering to SS36.
+Updated D2 symbol association from  to /5bf66ccc-d8c4-497c-9c2a-0c0815074f50/bfcc4712-df1b-4320-9ba2-74ff4acf273c.
+Updated D2 fields.
+Updated D2 sheetname to '/L298/'.
+Updated D2 sheetfile to 'L298.kicad_sch'.
+Updated D2 footprint filters to 'D*SMA*'.
+Connected D2 pin 2 to GND.
+Connected D2 pin 1 to /L298/OUT1.
+Added D3 (footprint 'Diode_SMD:D_SMA_Handsoldering').
+Changed REF** reference designator to D3.
+Changed D3 value from D_SMA_Handsoldering to SS36.
+Updated D3 symbol association from  to /5bf66ccc-d8c4-497c-9c2a-0c0815074f50/6bfe12b7-eca8-43f1-8c6d-7d4fa104764c.
+Updated D3 fields.
+Updated D3 sheetname to '/L298/'.
+Updated D3 sheetfile to 'L298.kicad_sch'.
+Updated D3 footprint filters to 'D*SMA*'.
+Add net /L298/OUT2.
+Connected D3 pin 1 to /L298/OUT2.
+Connected D3 pin 2 to GND.
+Added D4 (footprint 'Diode_SMD:D_SMA_Handsoldering').
+Changed REF** reference designator to D4.
+Changed D4 value from D_SMA_Handsoldering to SS36.
+Updated D4 symbol association from  to /5bf66ccc-d8c4-497c-9c2a-0c0815074f50/bf77ab88-eed9-4658-abac-c27bdcd19f42.
+Updated D4 fields.
+Updated D4 sheetname to '/L298/'.
+Updated D4 sheetfile to 'L298.kicad_sch'.
+Updated D4 footprint filters to 'D*SMA*'.
+Add net /L298/OUT3.
+Connected D4 pin 1 to /L298/OUT3.
+Connected D4 pin 2 to GND.
+Added D5 (footprint 'Diode_SMD:D_SMA_Handsoldering').
+Changed REF** reference designator to D5.
+Changed D5 value from D_SMA_Handsoldering to SS36.
+Updated D5 symbol association from  to /5bf66ccc-d8c4-497c-9c2a-0c0815074f50/c630c3e4-1ace-4be0-936e-12fcfaf513ed.
+Updated D5 fields.
+Updated D5 sheetname to '/L298/'.
+Updated D5 sheetfile to 'L298.kicad_sch'.
+Updated D5 footprint filters to 'D*SMA*'.
+Add net /L298/OUT4.
+Connected D5 pin 1 to /L298/OUT4.
+Connected D5 pin 2 to GND.
+Added D6 (footprint 'Diode_SMD:D_SMA_Handsoldering').
+Changed REF** reference designator to D6.
+Changed D6 value from D_SMA_Handsoldering to SS36.
+Updated D6 symbol association from  to /5bf66ccc-d8c4-497c-9c2a-0c0815074f50/0322224e-f0fc-4966-aedb-8c3ec05da383.
+Updated D6 fields.
+Updated D6 sheetname to '/L298/'.
+Updated D6 sheetfile to 'L298.kicad_sch'.
+Updated D6 footprint filters to 'D*SMA*'.
+Connected D6 pin 1 to +15V.
+Connected D6 pin 2 to /L298/OUT2.
+Added D7 (footprint 'Diode_SMD:D_SMA_Handsoldering').
+Changed REF** reference designator to D7.
+Changed D7 value from D_SMA_Handsoldering to SS36.
+Updated D7 symbol association from  to /5bf66ccc-d8c4-497c-9c2a-0c0815074f50/cb620d55-03d2-46b1-99fc-7bc5db65e9e8.
+Updated D7 fields.
+Updated D7 sheetname to '/L298/'.
+Updated D7 sheetfile to 'L298.kicad_sch'.
+Updated D7 footprint filters to 'D*SMA*'.
+Connected D7 pin 1 to +15V.
+Connected D7 pin 2 to /L298/OUT3.
+Added D8 (footprint 'Diode_SMD:D_SMA_Handsoldering').
+Changed REF** reference designator to D8.
+Changed D8 value from D_SMA_Handsoldering to SS36.
+Updated D8 symbol association from  to /5bf66ccc-d8c4-497c-9c2a-0c0815074f50/cf055aeb-8dd6-4fd5-a0a8-94e854918037.
+Updated D8 fields.
+Updated D8 sheetname to '/L298/'.
+Updated D8 sheetfile to 'L298.kicad_sch'.
+Updated D8 footprint filters to 'D*SMA*'.
+Connected D8 pin 2 to /L298/OUT4.
+Connected D8 pin 1 to +15V.
+Added FB1 (footprint 'Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder').
+Changed REF** reference designator to FB1.
+Changed FB1 value from L_0603_1608Metric_Pad1.05x0.95mm_HandSolder to 120R.
+Updated FB1 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/8c11b1be-99f1-41f8-995a-97b5bad6aa04.
+Updated FB1 fields.
+Updated FB1 sheetname to '/MCU/'.
+Updated FB1 sheetfile to 'MCU.kicad_sch'.
+Updated FB1 footprint filters to 'Inductor_* L_* *Ferrite*'.
+Connected FB1 pin 2 to +3.3VA.
+Connected FB1 pin 1 to +3.3V.
+Added FB2 (footprint 'Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder').
+Changed REF** reference designator to FB2.
+Changed FB2 value from L_0805_2012Metric_Pad1.15x1.40mm_HandSolder to FerriteBead.
+Updated FB2 symbol association from  to /c2392b63-5f62-47ea-a5e3-b296b98d2e30/5e38287f-df5d-4be3-8bbd-2813fce809d7.
+Updated FB2 fields.
+Updated FB2 sheetname to '/UART/'.
+Updated FB2 sheetfile to 'UART.kicad_sch'.
+Updated FB2 footprint filters to 'Inductor_* L_* *Ferrite*'.
+Add net /UART/USB_VBUS.
+Connected FB2 pin 1 to /UART/USB_VBUS.
+Add net Net-(U10-VBUS).
+Connected FB2 pin 2 to Net-(U10-VBUS).
+Added J2 (footprint 'Connector_Dsub:DSUB-15_Socket_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm').
+Changed REF** reference designator to J2.
+Changed J2 value from DSUB-15_Socket_Horizontal_P2.77x2.54mm_EdgePinOffset9.40mm to DA15_Socket.
+Updated J2 symbol association from  to /1f48aeeb-afc3-471c-bc76-eb9219f467dd.
+Updated J2 fields.
+Updated J2 sheetname to '/'.
+Updated J2 sheetfile to 'MNAPcb.kicad_sch'.
+Updated J2 footprint filters to 'DSUB*Socket*'.
+Connected J2 pin 11 to GND.
+Add net +12V.
+Connected J2 pin 4 to +12V.
+Add net /ADC/POT2_V.
+Connected J2 pin 12 to /ADC/POT2_V.
+Connected J2 pin 3 to GND.
+Add net /ADC/POT1_V.
+Connected J2 pin 5 to /ADC/POT1_V.
+Add net unconnected-(J2-Pad8).
+Connected J2 pin 8 to unconnected-(J2-Pad8).
+Add net unconnected-(J2-P14-Pad14).
+Connected J2 pin 14 to unconnected-(J2-P14-Pad14).
+Add net /L298/MOTOR2+.
+Connected J2 pin 2 to /L298/MOTOR2+.
+Add net unconnected-(J2-P15-Pad15).
+Connected J2 pin 15 to unconnected-(J2-P15-Pad15).
+Add net /L298/MOTOR1+.
+Connected J2 pin 1 to /L298/MOTOR1+.
+Add net /L298/MOTOR2-.
+Connected J2 pin 10 to /L298/MOTOR2-.
+Add net unconnected-(J2-Pad7).
+Connected J2 pin 7 to unconnected-(J2-Pad7).
+Add net unconnected-(J2-P13-Pad13).
+Connected J2 pin 13 to unconnected-(J2-P13-Pad13).
+Add net unconnected-(J2-Pad6).
+Connected J2 pin 6 to unconnected-(J2-Pad6).
+Add net /L298/MOTOR1-.
+Connected J2 pin 9 to /L298/MOTOR1-.
+Added J4 (footprint 'Connector_Coaxial:SMA_Amphenol_132289_EdgeMount').
+Changed REF** reference designator to J4.
+Changed J4 value from SMA_Amphenol_132289_EdgeMount to Conn_Coaxial.
+Updated J4 symbol association from  to /36b1fa12-b52f-41f8-a74f-e9b97e28728e.
+Updated J4 fields.
+Updated J4 sheetname to '/'.
+Updated J4 sheetfile to 'MNAPcb.kicad_sch'.
+Updated J4 footprint filters to '*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*'.
+Connected J4 pin 2 to GND.
+Add net /MCU/SINE_WAVE.
+Connected J4 pin 1 to /MCU/SINE_WAVE.
+Connected J4 pin 2 to GND.
+Connected J4 pin 2 to GND.
+Connected J4 pin 2 to GND.
+Added J5 (footprint 'Connector_Coaxial:SMA_Amphenol_132289_EdgeMount').
+Changed REF** reference designator to J5.
+Changed J5 value from SMA_Amphenol_132289_EdgeMount to SineWaveIn1.
+Updated J5 symbol association from  to /2d80445f-0c3b-4577-8cc8-07067138dddd.
+Updated J5 fields.
+Updated J5 sheetname to '/'.
+Updated J5 sheetfile to 'MNAPcb.kicad_sch'.
+Updated J5 footprint filters to '*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*'.
+Add net /ADC/SineWaveIn.
+Connected J5 pin 1 to /ADC/SineWaveIn.
+Connected J5 pin 2 to GND.
+Connected J5 pin 2 to GND.
+Connected J5 pin 2 to GND.
+Connected J5 pin 2 to GND.
+Added J6 (footprint 'Connector_Coaxial:SMA_Amphenol_132289_EdgeMount').
+Changed REF** reference designator to J6.
+Changed J6 value from SMA_Amphenol_132289_EdgeMount to SineWaveIn.
+Updated J6 symbol association from  to /63d91814-2806-4ad2-9791-ff3fb561c859.
+Updated J6 fields.
+Updated J6 sheetname to '/'.
+Updated J6 sheetfile to 'MNAPcb.kicad_sch'.
+Updated J6 footprint filters to '*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO* *UMRF* *MCX* *U.FL*'.
+Connected J6 pin 2 to GND.
+Connected J6 pin 2 to GND.
+Connected J6 pin 2 to GND.
+Connected J6 pin 1 to /ADC/SineWaveIn.
+Connected J6 pin 2 to GND.
+Added R1 (footprint 'Resistor_SMD:R_1225_3264Metric_Pad1.47x6.45mm_HandSolder').
+Changed REF** reference designator to R1.
+Changed R1 value from R_1225_3264Metric_Pad1.47x6.45mm_HandSolder to 4k7.
+Updated R1 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/fca8dc40-7c1b-409c-b253-c7778a3a2281.
+Updated R1 fields.
+Updated R1 sheetname to '/MCU/'.
+Updated R1 sheetfile to 'MCU.kicad_sch'.
+Updated R1 footprint filters to 'R_*'.
+Add net /ADC/SCL_ADC.
+Connected R1 pin 2 to /ADC/SCL_ADC.
+Connected R1 pin 1 to +3.3V.
+Added R2 (footprint 'Resistor_SMD:R_1225_3264Metric_Pad1.47x6.45mm_HandSolder').
+Changed REF** reference designator to R2.
+Changed R2 value from R_1225_3264Metric_Pad1.47x6.45mm_HandSolder to 4k7.
+Updated R2 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/1f1c85ed-d2a6-4579-9fbd-07ebcbc2dde0.
+Updated R2 fields.
+Updated R2 sheetname to '/MCU/'.
+Updated R2 sheetfile to 'MCU.kicad_sch'.
+Updated R2 footprint filters to 'R_*'.
+Add net /ADC/SDA_ADC.
+Connected R2 pin 2 to /ADC/SDA_ADC.
+Connected R2 pin 1 to +3.3V.
+Connected U1 pin 55 to unconnected-(U1-PD8-Pad55).
+Added SW1 (footprint 'Button_Switch_THT:SW_PUSH_6mm_H7.3mm').
+Changed REF** reference designator to SW1.
+Changed SW1 value from SW_PUSH_6mm_H7.3mm to SW_Push_Shielded.
+Updated SW1 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/a7d2d51b-cd57-42fe-8d18-2aa5ac27b229.
+Updated SW1 fields.
+Updated SW1 sheetname to '/MCU/'.
+Updated SW1 sheetfile to 'MCU.kicad_sch'.
+Connected SW1 pin 2 to /MCU/NRST.
+Connected SW1 pin 1 to GND.
+Connected SW1 pin 1 to GND.
+Connected SW1 pin 2 to /MCU/NRST.
+Added U1 (footprint 'Package_QFP:LQFP-100_14x14mm_P0.5mm').
+Changed REF** reference designator to U1.
+Changed U1 value from LQFP-100_14x14mm_P0.5mm to STM32F407VGTx.
+Updated U1 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/209c24c1-f133-4a7a-809e-62aea9e4656c.
+Updated U1 fields.
+Updated U1 sheetname to '/MCU/'.
+Updated U1 sheetfile to 'MCU.kicad_sch'.
+Updated U1 footprint filters to 'LQFP*14x14mm*P0.5mm*'.
+Add net unconnected-(U1-PD11-Pad58).
+Connected U1 pin 58 to unconnected-(U1-PD11-Pad58).
+Add net unconnected-(U1-PB15-Pad54).
+Connected U1 pin 54 to unconnected-(U1-PB15-Pad54).
+Add net unconnected-(U1-PC15-Pad9).
+Connected U1 pin 9 to unconnected-(U1-PC15-Pad9).
+Add net /ADC/ADC1.
+Connected U1 pin 25 to /ADC/ADC1.
+Add net unconnected-(U1-PE14-Pad45).
+Connected U1 pin 45 to unconnected-(U1-PE14-Pad45).
+Add net unconnected-(U1-PB3-Pad89).
+Connected U1 pin 89 to unconnected-(U1-PB3-Pad89).
+Connected U1 pin 20 to GND.
+Add net /L298/PWM1.
+Connected U1 pin 67 to /L298/PWM1.
+Add net unconnected-(U1-PC0-Pad15).
+Connected U1 pin 15 to unconnected-(U1-PC0-Pad15).
+Connected U1 pin 14 to /MCU/NRST.
+Connected U1 pin 49 to Net-(U1-VCAP_1).
+Add net unconnected-(U1-PB2-Pad37).
+Connected U1 pin 37 to unconnected-(U1-PB2-Pad37).
+Add net unconnected-(U1-PB13-Pad52).
+Connected U1 pin 52 to unconnected-(U1-PB13-Pad52).
+Add net unconnected-(U1-PD10-Pad57).
+Connected U1 pin 57 to unconnected-(U1-PD10-Pad57).
+Add net unconnected-(U1-PB11-Pad48).
+Connected U1 pin 48 to unconnected-(U1-PB11-Pad48).
+Add net unconnected-(U1-PD15-Pad62).
+Connected U1 pin 62 to unconnected-(U1-PD15-Pad62).
+Add net unconnected-(U1-PE4-Pad3).
+Connected U1 pin 3 to unconnected-(U1-PE4-Pad3).
+Connected U1 pin 93 to /ADC/SDA_ADC.
+Add net unconnected-(U1-PB9-Pad96).
+Connected U1 pin 96 to unconnected-(U1-PB9-Pad96).
+Add net unconnected-(U1-PA11-Pad70).
+Connected U1 pin 70 to unconnected-(U1-PA11-Pad70).
+Add net unconnected-(U1-PE3-Pad2).
+Connected U1 pin 2 to unconnected-(U1-PE3-Pad2).
+Add net unconnected-(U1-PD3-Pad84).
+Connected U1 pin 84 to unconnected-(U1-PD3-Pad84).
+Add net unconnected-(U1-PB1-Pad36).
+Connected U1 pin 36 to unconnected-(U1-PB1-Pad36).
+Connected U1 pin 10 to GND.
+Add net unconnected-(U1-PC6-Pad63).
+Connected U1 pin 63 to unconnected-(U1-PC6-Pad63).
+Add net unconnected-(U1-PD8-Pad55).
+Add net unconnected-(U1-PA5-Pad30).
+Connected U1 pin 30 to unconnected-(U1-PA5-Pad30).
+Add net unconnected-(U1-PC11-Pad79).
+Connected U1 pin 79 to unconnected-(U1-PC11-Pad79).
+Connected U1 pin 28 to +3.3V.
+Add net /MCU/USART_RX.
+Connected U1 pin 87 to /MCU/USART_RX.
+Connected U1 pin 11 to +3.3V.
+Connected U1 pin 73 to Net-(U1-VCAP_2).
+Add net unconnected-(U1-PD14-Pad61).
+Connected U1 pin 61 to unconnected-(U1-PD14-Pad61).
+Add net unconnected-(U1-PC1-Pad16).
+Connected U1 pin 16 to unconnected-(U1-PC1-Pad16).
+Add net unconnected-(U1-PA15-Pad77).
+Connected U1 pin 77 to unconnected-(U1-PA15-Pad77).
+Add net unconnected-(U1-PA6-Pad31).
+Connected U1 pin 31 to unconnected-(U1-PA6-Pad31).
+Add net unconnected-(U1-PA7-Pad32).
+Connected U1 pin 32 to unconnected-(U1-PA7-Pad32).
+Add net unconnected-(U1-PB5-Pad91).
+Connected U1 pin 91 to unconnected-(U1-PB5-Pad91).
+Connected U1 pin 92 to /ADC/SCL_ADC.
+Connected U1 pin 27 to GND.
+Add net /L298/PWM2.
+Connected U1 pin 23 to /L298/PWM2.
+Add net unconnected-(U1-PE12-Pad43).
+Connected U1 pin 43 to unconnected-(U1-PE12-Pad43).
+Connected U1 pin 74 to GND.
+Add net /ADC/ADC2.
+Connected U1 pin 26 to /ADC/ADC2.
+Connected U1 pin 12 to Net-(U1-PH0).
+Add net unconnected-(U1-PD2-Pad83).
+Connected U1 pin 83 to unconnected-(U1-PD2-Pad83).
+Add net /L298/IN4.
+Connected U1 pin 42 to /L298/IN4.
+Add net unconnected-(U1-PC14-Pad8).
+Connected U1 pin 8 to unconnected-(U1-PC14-Pad8).
+Add net /L298/IN3.
+Connected U1 pin 40 to /L298/IN3.
+Add net unconnected-(U1-PC3-Pad18).
+Connected U1 pin 18 to unconnected-(U1-PC3-Pad18).
+Add net /L298/IN2.
+Connected U1 pin 39 to /L298/IN2.
+Add net unconnected-(U1-PC4-Pad33).
+Connected U1 pin 33 to unconnected-(U1-PC4-Pad33).
+Add net unconnected-(U1-PE10-Pad41).
+Connected U1 pin 41 to unconnected-(U1-PE10-Pad41).
+Connected U1 pin 13 to Net-(U1-PH1).
+Add net /MCU/USART_TX.
+Connected U1 pin 86 to /MCU/USART_TX.
+Add net unconnected-(U1-PA12-Pad71).
+Connected U1 pin 71 to unconnected-(U1-PA12-Pad71).
+Add net /L298/IN1.
+Connected U1 pin 38 to /L298/IN1.
+Add net unconnected-(U1-PA10-Pad69).
+Connected U1 pin 69 to unconnected-(U1-PA10-Pad69).
+Add net /MCU/SWCLK.
+Connected U1 pin 76 to /MCU/SWCLK.
+Add net unconnected-(U1-PE1-Pad98).
+Connected U1 pin 98 to unconnected-(U1-PE1-Pad98).
+Add net unconnected-(U1-PC9-Pad66).
+Connected U1 pin 66 to unconnected-(U1-PC9-Pad66).
+Add net /MCU/SWDIO.
+Connected U1 pin 72 to /MCU/SWDIO.
+Add net unconnected-(U1-PB4-Pad90).
+Connected U1 pin 90 to unconnected-(U1-PB4-Pad90).
+Connected U1 pin 50 to +3.3V.
+Add net unconnected-(U1-PD9-Pad56).
+Connected U1 pin 56 to unconnected-(U1-PD9-Pad56).
+Add net /ADC/ADC0.
+Connected U1 pin 24 to /ADC/ADC0.
+Add net unconnected-(U1-PC2-Pad17).
+Connected U1 pin 17 to unconnected-(U1-PC2-Pad17).
+Add net unconnected-(U1-PA9-Pad68).
+Connected U1 pin 68 to unconnected-(U1-PA9-Pad68).
+Add net unconnected-(U1-PD12-Pad59).
+Connected U1 pin 59 to unconnected-(U1-PD12-Pad59).
+Add net unconnected-(U1-PB12-Pad51).
+Connected U1 pin 51 to unconnected-(U1-PB12-Pad51).
+Add net unconnected-(U1-PD0-Pad81).
+Connected U1 pin 81 to unconnected-(U1-PD0-Pad81).
+Add net unconnected-(U1-PD4-Pad85).
+Connected U1 pin 85 to unconnected-(U1-PD4-Pad85).
+Connected U1 pin 75 to +3.3V.
+Connected U1 pin 100 to +3.3V.
+Add net unconnected-(U1-PB10-Pad47).
+Connected U1 pin 47 to unconnected-(U1-PB10-Pad47).
+Add net unconnected-(U1-PD1-Pad82).
+Connected U1 pin 82 to unconnected-(U1-PD1-Pad82).
+Add net unconnected-(U1-PE2-Pad1).
+Connected U1 pin 1 to unconnected-(U1-PE2-Pad1).
+Add net unconnected-(U1-PE6-Pad5).
+Connected U1 pin 5 to unconnected-(U1-PE6-Pad5).
+Connected U1 pin 21 to +3.3VA.
+Connected U1 pin 99 to GND.
+Add net unconnected-(U1-PC8-Pad65).
+Connected U1 pin 65 to unconnected-(U1-PC8-Pad65).
+Add net Net-(U1-BOOT0).
+Connected U1 pin 94 to Net-(U1-BOOT0).
+Add net unconnected-(U1-PE13-Pad44).
+Connected U1 pin 44 to unconnected-(U1-PE13-Pad44).
+Add net unconnected-(U1-PE5-Pad4).
+Connected U1 pin 4 to unconnected-(U1-PE5-Pad4).
+Connected U1 pin 6 to +3.3V.
+Add net unconnected-(U1-PB8-Pad95).
+Connected U1 pin 95 to unconnected-(U1-PB8-Pad95).
+Add net unconnected-(U1-PC7-Pad64).
+Connected U1 pin 64 to unconnected-(U1-PC7-Pad64).
+Connected U1 pin 29 to /MCU/SINE_WAVE.
+Add net unconnected-(U1-PC5-Pad34).
+Connected U1 pin 34 to unconnected-(U1-PC5-Pad34).
+Connected U1 pin 22 to +3.3VA.
+Add net unconnected-(U1-PC13-Pad7).
+Connected U1 pin 7 to unconnected-(U1-PC13-Pad7).
+Add net unconnected-(U1-PB14-Pad53).
+Connected U1 pin 53 to unconnected-(U1-PB14-Pad53).
+Add net unconnected-(U1-PB0-Pad35).
+Connected U1 pin 35 to unconnected-(U1-PB0-Pad35).
+Add net unconnected-(U1-PC12-Pad80).
+Connected U1 pin 80 to unconnected-(U1-PC12-Pad80).
+Add net unconnected-(U1-PE0-Pad97).
+Connected U1 pin 97 to unconnected-(U1-PE0-Pad97).
+Add net unconnected-(U1-PD13-Pad60).
+Connected U1 pin 60 to unconnected-(U1-PD13-Pad60).
+Add net unconnected-(U1-PD7-Pad88).
+Connected U1 pin 88 to unconnected-(U1-PD7-Pad88).
+Add net unconnected-(U1-PC10-Pad78).
+Connected U1 pin 78 to unconnected-(U1-PC10-Pad78).
+Connected U1 pin 19 to +3.3V.
+Add net unconnected-(U1-PE15-Pad46).
+Added U2 (footprint 'Package_TO_SOT_THT:TO-220-15_P2.54x2.54mm_StaggerOdd_Lead5.84mm_TabDown').
+Changed REF** reference designator to U2.
+Changed U2 value from TO-220-15_P2.54x2.54mm_StaggerOdd_Lead5.84mm_TabDown to L298HN.
+Updated U2 symbol association from  to /5bf66ccc-d8c4-497c-9c2a-0c0815074f50/cff3fe58-f94b-420a-a9db-bd27eb636fb2.
+Updated U2 fields.
+Updated U2 sheetname to '/L298/'.
+Updated U2 sheetfile to 'L298.kicad_sch'.
+Updated U2 footprint filters to 'TO?220*StaggerOdd*TabDown*'.
+Connected U2 pin 4 to +15V.
+Connected U2 pin 14 to /L298/OUT4.
+Connected U2 pin 12 to /L298/IN4.
+Connected U2 pin 1 to GND.
+Connected U2 pin 5 to /L298/IN1.
+Add net +5V.
+Connected U2 pin 9 to +5V.
+Connected U2 pin 15 to GND.
+Connected U2 pin 11 to /L298/PWM2.
+Connected U2 pin 6 to /L298/PWM1.
+Connected U2 pin 8 to GND.
+Connected U2 pin 3 to /L298/OUT2.
+Connected U2 pin 2 to /L298/OUT1.
+Connected U2 pin 13 to /L298/OUT3.
+Connected U2 pin 7 to /L298/IN2.
+Connected U2 pin 10 to /L298/IN3.
+Added U3 (footprint 'Package_SO:VSSOP-10_3x3mm_P0.5mm').
+Changed REF** reference designator to U3.
+Changed U3 value from VSSOP-10_3x3mm_P0.5mm to INA226.
+Updated U3 symbol association from  to /5bf66ccc-d8c4-497c-9c2a-0c0815074f50/e78a788c-24d5-4047-9433-92b643233ddb.
+Updated U3 fields.
+Updated U3 sheetname to '/L298/'.
+Updated U3 sheetfile to 'L298.kicad_sch'.
+Updated U3 footprint filters to 'VSSOP*3x3mm*P0.5mm*'.
+Connected U3 pin 5 to /ADC/SCL_ADC.
+Connected U3 pin 2 to +3.3V.
+Connected U3 pin 6 to +3.3V.
+Connected U3 pin 9 to /L298/MOTOR1+.
+Connected U3 pin 1 to +3.3V.
+Add net unconnected-(U3-~{Alert}-Pad3).
+Connected U3 pin 3 to unconnected-(U3-~{Alert}-Pad3).
+Connected U3 pin 8 to /L298/OUT1.
+Connected U3 pin 7 to GND.
+Connected U3 pin 4 to /ADC/SDA_ADC.
+Connected U3 pin 10 to /L298/OUT1.
+Added U4 (footprint 'Package_SO:VSSOP-10_3x3mm_P0.5mm').
+Changed REF** reference designator to U4.
+Changed U4 value from VSSOP-10_3x3mm_P0.5mm to INA226.
+Updated U4 symbol association from  to /5bf66ccc-d8c4-497c-9c2a-0c0815074f50/8927296d-d105-472a-b302-2d05b896ffee.
+Updated U4 fields.
+Updated U4 sheetname to '/L298/'.
+Updated U4 sheetfile to 'L298.kicad_sch'.
+Updated U4 footprint filters to 'VSSOP*3x3mm*P0.5mm*'.
+Connected U4 pin 2 to GND.
+Connected U4 pin 8 to /L298/OUT2.
+Connected U4 pin 9 to /L298/MOTOR1-.
+Add net unconnected-(U4-~{Alert}-Pad3).
+Connected U4 pin 3 to unconnected-(U4-~{Alert}-Pad3).
+Connected U4 pin 1 to GND.
+Connected U4 pin 4 to /ADC/SDA_ADC.
+Connected U4 pin 7 to GND.
+Connected U4 pin 6 to +3.3V.
+Connected U4 pin 10 to /L298/OUT2.
+Connected U4 pin 5 to /ADC/SCL_ADC.
+Added U6 (footprint 'Package_SO:VSSOP-10_3x3mm_P0.5mm').
+Changed REF** reference designator to U6.
+Changed U6 value from VSSOP-10_3x3mm_P0.5mm to INA226.
+Updated U6 symbol association from  to /5bf66ccc-d8c4-497c-9c2a-0c0815074f50/58c1cf9f-a955-436a-b2a6-1a72e66da101.
+Updated U6 fields.
+Updated U6 sheetname to '/L298/'.
+Updated U6 sheetfile to 'L298.kicad_sch'.
+Updated U6 footprint filters to 'VSSOP*3x3mm*P0.5mm*'.
+Connected U6 pin 4 to /ADC/SDA_ADC.
+Connected U6 pin 5 to /ADC/SCL_ADC.
+Connected U6 pin 9 to /L298/MOTOR2+.
+Connected U6 pin 2 to +3.3V.
+Connected U6 pin 1 to GND.
+Connected U6 pin 10 to /L298/OUT3.
+Add net unconnected-(U6-~{Alert}-Pad3).
+Connected U6 pin 3 to unconnected-(U6-~{Alert}-Pad3).
+Connected U6 pin 6 to +3.3V.
+Connected U6 pin 8 to /L298/OUT3.
+Connected U6 pin 7 to GND.
+Added C1 (footprint 'Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder').
+Added U7 (footprint 'Package_SO:VSSOP-10_3x3mm_P0.5mm').
+Changed REF** reference designator to U7.
+Changed U7 value from VSSOP-10_3x3mm_P0.5mm to INA226.
+Updated U7 symbol association from  to /5bf66ccc-d8c4-497c-9c2a-0c0815074f50/68400851-73dd-4725-9bc0-72816665f93e.
+Updated U7 fields.
+Updated U7 sheetname to '/L298/'.
+Updated U7 sheetfile to 'L298.kicad_sch'.
+Updated U7 footprint filters to 'VSSOP*3x3mm*P0.5mm*'.
+Connected U7 pin 10 to /L298/OUT4.
+Connected U7 pin 6 to +3.3V.
+Connected U7 pin 1 to +3.3V.
+Connected U7 pin 7 to GND.
+Connected U7 pin 4 to /ADC/SDA_ADC.
+Add net unconnected-(U7-~{Alert}-Pad3).
+Connected U7 pin 3 to unconnected-(U7-~{Alert}-Pad3).
+Connected U7 pin 2 to GND.
+Connected U7 pin 5 to /ADC/SCL_ADC.
+Connected U7 pin 9 to /L298/MOTOR2-.
+Connected U7 pin 8 to /L298/OUT4.
+Changed REF** reference designator to C1.
+Changed C1 value from C_0603_1608Metric_Pad1.08x0.95mm_HandSolder to 100n.
+Added U9 (footprint 'Package_SO:SSOP-28_5.3x10.2mm_P0.65mm').
+Changed REF** reference designator to U9.
+Changed U9 value from SSOP-28_5.3x10.2mm_P0.65mm to FT232RL.
+Updated U9 symbol association from  to /c2392b63-5f62-47ea-a5e3-b296b98d2e30/1b505fca-f5d1-48fb-93b8-b4d25ecb9fe2.
+Updated U9 fields.
+Updated U9 sheetname to '/UART/'.
+Updated U9 sheetfile to 'UART.kicad_sch'.
+Updated U9 footprint filters to 'SSOP*5.3x10.2mm*P0.65mm*'.
+Connected U9 pin 18 to GND.
+Connected U9 pin 20 to Net-(U10-VBUS).
+Connected U9 pin 26 to GND.
+Add net unconnected-(U9-DCR-Pad9).
+Connected U9 pin 9 to unconnected-(U9-DCR-Pad9).
+Add net unconnected-(U9-RI-Pad6).
+Connected U9 pin 6 to unconnected-(U9-RI-Pad6).
+Connected U9 pin 7 to GND.
+Add net unconnected-(U9-~{RESET}-Pad19).
+Connected U9 pin 19 to unconnected-(U9-~{RESET}-Pad19).
+Connected U1 pin 46 to unconnected-(U1-PE15-Pad46).
+Connected U9 pin 4 to /UART/VCCIO.
+Connected U9 pin 21 to GND.
+Add net unconnected-(U9-CTS-Pad11).
+Connected U9 pin 11 to unconnected-(U9-CTS-Pad11).
+Add net unconnected-(U9-DTR-Pad2).
+Connected U9 pin 2 to unconnected-(U9-DTR-Pad2).
+Add net Net-(D9-K).
+Connected U9 pin 23 to Net-(D9-K).
+Connected U9 pin 1 to /MCU/USART_RX.
+Connected U9 pin 25 to GND.
+Add net Net-(D11-K).
+Connected U9 pin 14 to Net-(D11-K).
+Add net unconnected-(U9-CBUS2-Pad13).
+Connected U9 pin 13 to unconnected-(U9-CBUS2-Pad13).
+Add net unconnected-(U9-RTS-Pad3).
+Connected U9 pin 3 to unconnected-(U9-RTS-Pad3).
+Add net Net-(U9-USBD+).
+Connected U9 pin 15 to Net-(U9-USBD+).
+Connected U9 pin 17 to /UART/VCCIO.
+Add net Net-(U9-USBD-).
+Connected U9 pin 16 to Net-(U9-USBD-).
+Add net unconnected-(U9-CBUS4-Pad12).
+Connected U9 pin 12 to unconnected-(U9-CBUS4-Pad12).
+Add net unconnected-(U9-DCD-Pad10).
+Connected U9 pin 10 to unconnected-(U9-DCD-Pad10).
+Add net unconnected-(U9-OSCO-Pad28).
+Connected U9 pin 28 to unconnected-(U9-OSCO-Pad28).
+Add net unconnected-(U9-OSCI-Pad27).
+Connected U9 pin 27 to unconnected-(U9-OSCI-Pad27).
+Connected U9 pin 5 to /MCU/USART_TX.
+Add net Net-(D10-K).
+Connected U9 pin 22 to Net-(D10-K).
+Updated C1 symbol association from  to /ed950b3a-4cdc-4ecb-b837-a184d082e364/e3e4d764-9652-4584-b2d7-3706bb2329b4.
+Added U10 (footprint 'Package_TO_SOT_SMD:SOT-23-6').
+Changed REF** reference designator to U10.
+Changed U10 value from SOT-23-6 to USBLC6-2SC6.
+Updated U10 symbol association from  to /c2392b63-5f62-47ea-a5e3-b296b98d2e30/8b34e122-c5ff-4b75-827f-ab2aee081792.
+Updated U10 fields.
+Updated U10 sheetname to '/UART/'.
+Updated U10 sheetfile to 'UART.kicad_sch'.
+Updated U10 footprint filters to 'SOT?23*'.
+Connected U10 pin 6 to Net-(U9-USBD-).
+Connected U10 pin 2 to GND.
+Connected U10 pin 1 to Net-(U9-USBD+).
+Connected U10 pin 5 to Net-(U10-VBUS).
+Add net /UART/D+.
+Connected U10 pin 3 to /UART/D+.
+Add net /UART/D-.
+Connected U10 pin 4 to /UART/D-.
+Updated C1 fields.
+Added U11 (footprint 'Package_SO:VSSOP-10_3x3mm_P0.5mm').
+Changed REF** reference designator to U11.
+Changed U11 value from VSSOP-10_3x3mm_P0.5mm to INA226.
+Updated U11 symbol association from  to /c81613e5-fe9a-4d09-84fc-7d3cc58eca56/2f98aeee-f823-4ef0-9b95-75ab1222d7f6.
+Updated U11 fields.
+Updated U11 sheetname to '/ADC/'.
+Updated U11 sheetfile to 'ADC.kicad_sch'.
+Updated U11 footprint filters to 'VSSOP*3x3mm*P0.5mm*'.
+Connected U11 pin 2 to /ADC/SDA_ADC.
+Connected U11 pin 10 to GND.
+Add net unconnected-(U11-~{Alert}-Pad3).
+Connected U11 pin 3 to unconnected-(U11-~{Alert}-Pad3).
+Connected U11 pin 4 to /ADC/SDA_ADC.
+Connected U11 pin 6 to +3.3V.
+Connected U11 pin 9 to GND.
+Connected U11 pin 7 to GND.
+Connected U11 pin 8 to /ADC/POT2_V.
+Connected U11 pin 5 to /ADC/SCL_ADC.
+Connected U11 pin 1 to GND.
+Updated C1 sheetname to '/MCU/'.
+Added U12 (footprint 'Package_SO:VSSOP-10_3x3mm_P0.5mm').
+Changed REF** reference designator to U12.
+Changed U12 value from VSSOP-10_3x3mm_P0.5mm to INA226.
+Updated U12 symbol association from  to /c81613e5-fe9a-4d09-84fc-7d3cc58eca56/4fd6af13-a77c-4ccf-8b9e-2595d2d9808a.
+Updated U12 fields.
+Updated U12 sheetname to '/ADC/'.
+Updated U12 sheetfile to 'ADC.kicad_sch'.
+Updated U12 footprint filters to 'VSSOP*3x3mm*P0.5mm*'.
+Connected U12 pin 1 to /ADC/SCL_ADC.
+Connected U12 pin 10 to GND.
+Connected U12 pin 2 to GND.
+Connected U12 pin 7 to GND.
+Connected U12 pin 5 to /ADC/SCL_ADC.
+Connected U12 pin 8 to /ADC/POT1_V.
+Connected U12 pin 9 to GND.
+Add net unconnected-(U12-~{Alert}-Pad3).
+Connected U12 pin 3 to unconnected-(U12-~{Alert}-Pad3).
+Connected U12 pin 4 to /ADC/SDA_ADC.
+Connected U12 pin 6 to +3.3V.
+Updated C1 sheetfile to 'MCU.kicad_sch'.
+Added U13 (footprint 'Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm').
+Changed REF** reference designator to U13.
+Changed U13 value from SOIC-16W_7.5x10.3mm_P1.27mm to AD637xRZ.
+Updated U13 symbol association from  to /c81613e5-fe9a-4d09-84fc-7d3cc58eca56/7ab361ba-9bb2-4d51-95ce-c03b8a62e0f5.
+Updated U13 fields.
+Updated U13 sheetname to '/ADC/'.
+Updated U13 sheetfile to 'ADC.kicad_sch'.
+Updated U13 footprint filters to 'SOIC*7.5x10.3mm*P1.27mm*'.
+Connected U13 pin 3 to GND.
+Add net unconnected-(U13-NIC-Pad2).
+Connected U13 pin 2 to unconnected-(U13-NIC-Pad2).
+Connected U13 pin 15 to /ADC/SineWaveIn.
+Add net unconnected-(U13-BUFF_OUT-Pad16).
+Connected U13 pin 16 to unconnected-(U13-BUFF_OUT-Pad16).
+Add net unconnected-(U13-NIC-Pad9).
+Connected U13 pin 9 to unconnected-(U13-NIC-Pad9).
+Connected U13 pin 12 to -15V.
+Connected U13 pin 4 to GND.
+Add net unconnected-(U13-dB_OUTPUT-Pad7).
+Connected U13 pin 7 to unconnected-(U13-dB_OUTPUT-Pad7).
+Add net unconnected-(U13-NIC-Pad14).
+Connected U13 pin 14 to unconnected-(U13-NIC-Pad14).
+Connected U13 pin 5 to +15V.
+Add net Net-(U13-C_{AV}).
+Connected U13 pin 10 to Net-(U13-C_{AV}).
+Connected U13 pin 6 to /ADC/ADC2.
+Connected U13 pin 13 to +15V.
+Connected U13 pin 11 to /ADC/ADC2.
+Connected U13 pin 1 to GND.
+Add net unconnected-(U13-NIC-Pad8).
+Connected U13 pin 8 to unconnected-(U13-NIC-Pad8).
+Updated C1 footprint filters to 'C_*'.
+Add net GND.
+
+
+Add net /UART/VCCIO.
+Warning: No net found for component U9 pad 24 (no pin 24 in symbol).
+Warning: No net found for component U9 pad 8 (no pin 8 in symbol).
+Error: Cannot add C41 (no footprint assigned).
+Error: Cannot add U8 (footprint 'TPS54202DDCR:SOT95P280X110-6N' not found).
+Error: Cannot add R21 (no footprint assigned).
+Error: Cannot add C40 (no footprint assigned).
+Error: Cannot add R22 (no footprint assigned).
+Error: Cannot add C39 (no footprint assigned).
+Error: Cannot add R23 (no footprint assigned).
+Error: Cannot add C38 (no footprint assigned).
+Error: Cannot add R24 (no footprint assigned).
+Error: Cannot add C37 (no footprint assigned).
+Error: Cannot add R25 (no footprint assigned).
+Error: Cannot add C18 (no footprint assigned).
+Error: Cannot add C36 (no footprint assigned).
+Error: Cannot add R26 (no footprint assigned).
+Error: Cannot add C35 (no footprint assigned).
+Error: Cannot add R27 (no footprint assigned).
+Error: Cannot add C34 (no footprint assigned).
+Error: Cannot add R28 (no footprint assigned).
+Error: Cannot add C33 (no footprint assigned).
+Error: Cannot add R29 (no footprint assigned).
+Error: Cannot add C32 (no footprint assigned).
+Error: Cannot add R30 (no footprint assigned).
+Error: Cannot add C31 (no footprint assigned).
+Error: Cannot add R31 (no footprint assigned).
+Error: Cannot add C30 (no footprint assigned).
+Error: Cannot add R32 (no footprint assigned).
+Error: Cannot add C28 (no footprint assigned).
+Error: Cannot add R33 (no footprint assigned).
+Error: Cannot add C24 (no footprint assigned).
+Error: Cannot add R34 (no footprint assigned).
+Error: Cannot add C23 (no footprint assigned).
+Error: Cannot add C17 (no footprint assigned).
+Error: Cannot add U5 (footprint 'TPS54202DDCR:SOT95P280X110-6N' not found).
+Error: Cannot add C16 (no footprint assigned).
+Error: Cannot add PS3 (footprint 'LMS78_15-1.0R:CONV_LMS78_15-1.0R' not found).
+Error: Cannot add R4 (no footprint assigned).
+Error: Cannot add R3 (no footprint assigned).
+Error: Cannot add C21 (no footprint assigned).
+Error: Cannot add C20 (no footprint assigned).
+Error: Cannot add PS2 (footprint 'LMS78_15-1.0R:CONV_LMS78_15-1.0R' not found).
+Error: Cannot add R5 (no footprint assigned).
+Error: Cannot add L4 (no footprint assigned).
+Error: Cannot add R6 (no footprint assigned).
+Error: Cannot add L3 (no footprint assigned).
+Error: Cannot add R7 (no footprint assigned).
+Error: Cannot add L2 (no footprint assigned).
+Error: Cannot add R8 (no footprint assigned).
+Error: Cannot add L1 (no footprint assigned).
+Error: Cannot add C22 (no footprint assigned).
+Error: Cannot add R9 (no footprint assigned).
+Error: Cannot add J7 (no footprint assigned).
+Error: Cannot add R10 (no footprint assigned).
+Error: Cannot add J3 (no footprint assigned).
+Error: Cannot add R11 (no footprint assigned).
+Error: Cannot add J1 (no footprint assigned).
+Error: Cannot add R12 (no footprint assigned).
+Error: Cannot add D11 (no footprint assigned).
+Error: Cannot add R13 (no footprint assigned).
+Error: Cannot add D10 (no footprint assigned).
+Error: Cannot add R14 (no footprint assigned).
+Error: Cannot add D9 (no footprint assigned).
+Error: Cannot add R15 (no footprint assigned).
+Error: Cannot add C46 (no footprint assigned).
+Error: Cannot add C19 (no footprint assigned).
+Error: Cannot add R16 (no footprint assigned).
+Error: Cannot add C45 (no footprint assigned).
+Error: Cannot add R17 (no footprint assigned).
+Error: Cannot add C44 (no footprint assigned).
+Error: Cannot add R18 (no footprint assigned).
+Error: Cannot add U14 (footprint 'TPS54202DDCR:SOT95P280X110-6N' not found).
+Error: Cannot add C43 (no footprint assigned).
+Error: Cannot add Y1 (no footprint assigned).
+Error: SW1 pad SH not found in Button_Switch_THT:SW_PUSH_6mm_H7.3mm.
+Error: Cannot add R19 (no footprint assigned).
+Error: Cannot add C42 (no footprint assigned).
+Error: Cannot add R20 (no footprint assigned).
+
+
+Info: Total warnings: 2, errors: 76.

@@ -683,6 +683,10 @@
     [
       "c81613e5-fe9a-4d09-84fc-7d3cc58eca56",
       "ADC"
+    ],
+    [
+      "704d6f6a-aefc-45e9-b348-92757fe4b134",
+      "RelayControl"
     ]
   ],
   "text_variables": {}

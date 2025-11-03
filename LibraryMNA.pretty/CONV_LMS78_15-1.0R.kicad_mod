@@ -1,0 +1,223 @@
+(footprint "CONV_LMS78_15-1.0R"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -2.825 -6.135 0)
+		(layer "F.SilkS")
+		(uuid "8d23ed7b-42c2-45e5-8f60-3db67f54e450")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "CONV_LMS78_15-1.0R"
+		(at 5.33 6.065 0)
+		(layer "F.Fab")
+		(uuid "96017e0a-28a9-4d70-8ea2-b202e956fa9b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9abe55f4-d448-4325-b74f-5d31e32468ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "162135ad-7dc2-4887-939d-dff307a447db")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5.75 -4.5)
+		(end -5.75 4.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "27d2329a-2734-461b-80f4-eb1fcce6928c")
+	)
+	(fp_line
+		(start -5.75 4.5)
+		(end 5.75 4.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9170d002-e96f-4b79-8e6a-af1bc3a86b07")
+	)
+	(fp_line
+		(start 5.75 -4.5)
+		(end -5.75 -4.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8c4216cd-77e8-4739-8a8b-728c9651d9be")
+	)
+	(fp_line
+		(start 5.75 4.5)
+		(end 5.75 -4.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "64032bf5-587b-4a6f-a11d-4a18e3c0c021")
+	)
+	(fp_circle
+		(center -2.5 -5.1)
+		(end -2.4 -5.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "1b2b38b6-fdb5-4a9a-bf23-51fbd16e04b4")
+	)
+	(fp_line
+		(start -6 -4.75)
+		(end -6 4.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1e29efb1-e79f-439e-b284-ca23ddfe8ad9")
+	)
+	(fp_line
+		(start -6 4.75)
+		(end 6 4.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "95f37f5f-3ae4-410f-9d2e-9644963859db")
+	)
+	(fp_line
+		(start 6 -4.75)
+		(end -6 -4.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "975bc3a2-842c-463f-9dd1-94b67dc9878e")
+	)
+	(fp_line
+		(start 6 4.75)
+		(end 6 -4.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fd164b7c-e927-4d49-b250-5d7325fd6986")
+	)
+	(fp_line
+		(start -5.75 -4.5)
+		(end -5.75 4.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "903861e7-a2e0-44f1-ad58-8dc64df05c7c")
+	)
+	(fp_line
+		(start -5.75 4.5)
+		(end 5.75 4.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3f01f325-4ec7-4b95-b15b-537db1e89e69")
+	)
+	(fp_line
+		(start 5.75 -4.5)
+		(end -5.75 -4.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7e1e891e-7662-47a3-ae6a-4c78752f4ba5")
+	)
+	(fp_line
+		(start 5.75 4.5)
+		(end 5.75 -4.5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "88226485-6baf-4ee5-acfa-3fcd39b0a4e9")
+	)
+	(fp_circle
+		(center -2.5 -5.1)
+		(end -2.4 -5.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "b1bc2ab1-abd8-4a7c-806c-12782ca61b40")
+	)
+	(pad "1" thru_hole rect
+		(at -2.54 -2.35)
+		(size 1.508 1.508)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "8909514c-c920-45c4-a808-fb0643640b15")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -2.35)
+		(size 1.508 1.508)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "8e0f1a2f-7685-4174-a19d-f617ba6f5137")
+	)
+	(pad "3" thru_hole circle
+		(at 2.54 -2.35)
+		(size 1.508 1.508)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "cd009d75-0cd5-4977-bac3-7c69dc30c805")
+	)
+	(embedded_fonts no)
+)

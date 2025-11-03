@@ -5192,7 +5192,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS54202DDCR:SOT95P280X110-6N"
+		(property "Footprint" "LibraryMNA:SOT95P280X110-6N"
 			(at 68.58 139.7 0)
 			(effects
 				(font
@@ -5273,7 +5273,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LMS78_15-1.0R:CONV_LMS78_15-1.0R"
+		(property "Footprint" "LibraryMNA:CONV_LMS78_15-1.0R"
 			(at 87.63 39.37 0)
 			(effects
 				(font
@@ -5658,7 +5658,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS54202DDCR:SOT95P280X110-6N"
+		(property "Footprint" "LibraryMNA:SOT95P280X110-6N"
 			(at 195.58 111.76 0)
 			(effects
 				(font
@@ -7388,7 +7388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS54202DDCR:SOT95P280X110-6N"
+		(property "Footprint" "LibraryMNA:SOT95P280X110-6N"
 			(at 187.96 45.72 0)
 			(effects
 				(font
@@ -8225,7 +8225,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LMS78_15-1.0R:CONV_LMS78_15-1.0R"
+		(property "Footprint" "LibraryMNA:CONV_LMS78_15-1.0R"
 			(at 88.9 68.58 0)
 			(effects
 				(font

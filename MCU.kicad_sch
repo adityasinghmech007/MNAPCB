@@ -3894,14 +3894,6 @@
 		(uuid "3df4e0ae-f1b0-4cf9-afe3-5dc9e656ff04")
 	)
 	(no_connect
-		(at 144.78 104.14)
-		(uuid "41e53592-94e2-4ec5-87a6-6b4fc51832bf")
-	)
-	(no_connect
-		(at 144.78 96.52)
-		(uuid "447f7be8-3690-4d92-8304-c13e9ed61f6a")
-	)
-	(no_connect
 		(at 93.98 111.76)
 		(uuid "4bb8cb39-eea8-43d7-b9e3-45c34a390070")
 	)
@@ -3920,14 +3912,6 @@
 	(no_connect
 		(at 144.78 116.84)
 		(uuid "56bd862e-8779-4ec5-8d0b-a5a42d597467")
-	)
-	(no_connect
-		(at 144.78 106.68)
-		(uuid "5efc9676-e229-4b77-97ea-d978cb7facad")
-	)
-	(no_connect
-		(at 144.78 109.22)
-		(uuid "62e2b043-536d-4f07-a169-f87fc1bd7b64")
 	)
 	(no_connect
 		(at 93.98 116.84)
@@ -3964,10 +3948,6 @@
 	(no_connect
 		(at 93.98 149.86)
 		(uuid "75d545ea-5941-460d-8e8d-7f1bc535588a")
-	)
-	(no_connect
-		(at 144.78 101.6)
-		(uuid "825f691b-5327-40c4-82c0-60ad81a92eac")
 	)
 	(no_connect
 		(at 144.78 71.12)
@@ -4084,6 +4064,10 @@
 	(no_connect
 		(at 144.78 124.46)
 		(uuid "f1af2eaf-2845-4b1c-bb39-3910125dbb76")
+	)
+	(no_connect
+		(at 144.78 109.22)
+		(uuid "f81c4d98-b40e-4ab1-bbf7-b9a850c865f7")
 	)
 	(no_connect
 		(at 93.98 142.24)
@@ -4509,6 +4493,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 106.68) (xy 158.75 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ed382e1-6246-4251-9a34-54022f5b0497")
+	)
+	(wire
+		(pts
 			(xy 50.8 120.65) (xy 57.15 120.65)
 		)
 		(stroke
@@ -4649,16 +4643,6 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 99.06) (xy 158.75 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a2f93593-572e-4559-8186-a46cf830017c")
-	)
-	(wire
-		(pts
 			(xy 181.61 48.26) (xy 189.23 48.26)
 		)
 		(stroke
@@ -4686,6 +4670,16 @@
 			(type default)
 		)
 		(uuid "a471b801-5cb3-4a9e-bebc-8144e6f4cc97")
+	)
+	(wire
+		(pts
+			(xy 144.78 104.14) (xy 158.75 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a86e5c5a-625d-46d9-9222-ebc176b29b8b")
 	)
 	(wire
 		(pts
@@ -4766,6 +4760,16 @@
 			(type default)
 		)
 		(uuid "c08d4f2d-9fff-4ac6-9505-011ac90f48fb")
+	)
+	(wire
+		(pts
+			(xy 144.78 101.6) (xy 158.75 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0e21623-c4aa-46e6-b09a-4a81b9d4223c")
 	)
 	(wire
 		(pts
@@ -5117,6 +5121,26 @@
 		)
 		(uuid "fc8733db-1ee2-4987-95ff-2cdd7dfc4473")
 	)
+	(wire
+		(pts
+			(xy 144.78 99.06) (xy 158.75 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd504ea8-aaea-452e-a565-1299206bb185")
+	)
+	(wire
+		(pts
+			(xy 144.78 96.52) (xy 158.75 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff277591-fc9b-48cb-9fef-dedb725d7d12")
+	)
 	(hierarchical_label "SWDIO"
 		(shape bidirectional)
 		(at 69.85 81.28 180)
@@ -5205,6 +5229,17 @@
 		)
 		(uuid "7d9570c5-4e9e-4c4a-91a7-3f22c1d57d5b")
 	)
+	(hierarchical_label "K4IN"
+		(shape output)
+		(at 158.75 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7e4058e0-79e1-4964-bbe3-6a8199c5faa0")
+	)
 	(hierarchical_label "USART_TX"
 		(shape bidirectional)
 		(at 162.56 127 0)
@@ -5215,6 +5250,17 @@
 			(justify left)
 		)
 		(uuid "81a86d72-4a57-4c92-8b52-9bc2a94c7c3e")
+	)
+	(hierarchical_label "K3IN"
+		(shape output)
+		(at 158.75 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "93eeea17-06c4-41b8-afb0-3d92f8a083ac")
 	)
 	(hierarchical_label "I2C1_SCL"
 		(shape bidirectional)
@@ -5229,7 +5275,7 @@
 	)
 	(hierarchical_label "IN4"
 		(shape output)
-		(at 158.75 99.06 0)
+		(at 158.75 96.52 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5259,6 +5305,17 @@
 			(justify left)
 		)
 		(uuid "9f971606-f233-489c-a7cb-816cd130254d")
+	)
+	(hierarchical_label "K2IN"
+		(shape output)
+		(at 158.75 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a13bb8ec-41bb-41b6-bc41-6c38103cf833")
 	)
 	(hierarchical_label "I2C1_SDA"
 		(shape bidirectional)
@@ -5292,6 +5349,17 @@
 			(justify right)
 		)
 		(uuid "e87ddff5-75aa-4784-827d-e002cd2a3592")
+	)
+	(hierarchical_label "K1IN"
+		(shape output)
+		(at 158.75 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f02d19b5-f6bf-4be6-a648-0650305d5279")
 	)
 	(hierarchical_label "IN3"
 		(shape output)

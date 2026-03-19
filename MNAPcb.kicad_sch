@@ -4759,7 +4759,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_TE-Connectivity:TE_826576-2_1x02_P3.96mm_Vertical"
 			(at 19.05 138.43 0)
 			(effects
 				(font

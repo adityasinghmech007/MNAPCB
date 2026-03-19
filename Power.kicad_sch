@@ -625,20 +625,22 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "PS3"
-				(at 0 10.16 0)
+			(property "Reference" "PS"
+				(at -12.7 5.842 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
 			(property "Value" "LMS78_15-1.0R"
-				(at 0 7.62 0)
+				(at -12.7 -7.366 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(justify left bottom)
 				)
 			)
 			(property "Footprint" "LMS78_15-1.0R:CONV_LMS78_15-1.0R"
@@ -739,7 +741,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 17.78 2.54 180)
 					(length 5.08)
 					(name "+VO/GND"
@@ -757,167 +759,7 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 17.78 -2.54 180)
-					(length 5.08)
-					(name "GND/-VO"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "LMS78_15-1.0R_2"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "PS1"
-				(at 0 10.16 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "LMS78_15-1.0R"
-				(at 0 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "LMS78_15-1.0R:CONV_LMS78_15-1.0R"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "PARTREV" "2023-1.3"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MANUFACTURER" "Gaptec"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "MAXIMUM_PACKAGE_HEIGHT" "17.75mm"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(property "STANDARD" "Manufacturer Recommendations"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify bottom)
-					(hide yes)
-				)
-			)
-			(symbol "LMS78_15-1.0R_2_0_0"
-				(rectangle
-					(start -12.7 5.08)
-					(end 12.7 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin input line
-					(at -17.78 2.54 0)
-					(length 5.08)
-					(name "+VIN"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 17.78 2.54 180)
-					(length 5.08)
-					(name "+VO/GND"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_out line
+				(pin power_in line
 					(at 17.78 -2.54 180)
 					(length 5.08)
 					(name "GND/-VO"
@@ -2140,6 +1982,12 @@
 		(uuid "49c4a9a3-6a48-46e5-bda7-c5754881e80d")
 	)
 	(junction
+		(at 120.65 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4dfa59f3-da68-48a1-b025-443197d42027")
+	)
+	(junction
 		(at 149.86 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2354,6 +2202,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d4f3dfe0-a9bc-4a21-8207-de3ce3c9a8c1")
+	)
+	(junction
+		(at 118.11 36.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d9ce8057-a142-4cfd-8fcf-d0d75137ce00")
 	)
 	(junction
 		(at 135.89 149.86)
@@ -2737,7 +2591,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 36.83) (xy 120.65 36.83)
+			(xy 111.76 36.83) (xy 118.11 36.83)
 		)
 		(stroke
 			(width 0)
@@ -2984,6 +2838,16 @@
 			(type default)
 		)
 		(uuid "664104f9-2076-4fa7-ac81-cc76e3bb765b")
+	)
+	(wire
+		(pts
+			(xy 118.11 36.83) (xy 120.65 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "675684ca-ed51-4a22-8ea4-9f1bc60f356b")
 	)
 	(wire
 		(pts
@@ -3427,6 +3291,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 71.12) (xy 124.46 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b85fd7e1-d448-40ac-a98a-92e48edd7041")
+	)
+	(wire
+		(pts
 			(xy 246.38 40.64) (xy 234.95 40.64)
 		)
 		(stroke
@@ -3737,7 +3611,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 71.12) (xy 124.46 71.12)
+			(xy 111.76 71.12) (xy 120.65 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3927,6 +3801,230 @@
 			(project ""
 				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
 					(reference "#FLG02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LMS78_15-1.0R:LMS78_15-1.0R")
+		(at 88.9 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0437d24d-97fd-4870-94b3-687398471f89")
+		(property "Reference" "PS2"
+			(at 88.9 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LMS78_15-1.0R"
+			(at 88.9 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:CONV_LMS78_15-1.0R"
+			(at 88.9 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "2023-1.3"
+			(at 88.9 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Gaptec"
+			(at 88.9 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "17.75mm"
+			(at 88.9 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 88.9 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eccee9cf-cdc0-4e51-90f1-04b473745798")
+		)
+		(pin "3"
+			(uuid "d3f51791-4311-4477-a821-2fb7ca84841f")
+		)
+		(pin "2"
+			(uuid "593d047a-cfff-428d-9b35-bd1427339ffe")
+		)
+		(instances
+			(project "MNAPcb"
+				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
+					(reference "PS2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "LMS78_15-1.0R:LMS78_15-1.0R")
+		(at 87.63 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "07a5d61a-bae9-433a-9317-88e6c5a42daa")
+		(property "Reference" "PS1"
+			(at 87.63 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LMS78_15-1.0R"
+			(at 87.63 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:CONV_LMS78_15-1.0R"
+			(at 87.63 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 87.63 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 87.63 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "2023-1.3"
+			(at 87.63 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Gaptec"
+			(at 87.63 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "17.75mm"
+			(at 87.63 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 87.63 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "537790fc-36e2-4a80-b16d-0d3f2c170c9c")
+		)
+		(pin "3"
+			(uuid "b6fd032a-b33a-40d9-ba5a-833e2d8a2780")
+		)
+		(pin "2"
+			(uuid "b24dc4cd-41f3-4041-b431-3d6582e68bd6")
+		)
+		(instances
+			(project ""
+				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
+					(reference "PS1")
 					(unit 1)
 				)
 			)
@@ -4269,6 +4367,87 @@
 			(project "MNAPcb"
 				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
 					(reference "C33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TPS54202DDCR:TPS54202DDCR")
+		(at 187.96 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "19c2eea4-280b-4b53-9a3f-919e78eb587b")
+		(property "Reference" "U19"
+			(at 187.96 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TPS54202DDCR"
+			(at 187.96 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SOT95P280X110-6N"
+			(at 187.96 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 187.96 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "9c12b2a9-a974-4e58-a48b-b7c3bb4309ad")
+		)
+		(pin "5"
+			(uuid "2e509f45-dd85-44f7-a991-b3b84f1b6ae8")
+		)
+		(pin "3"
+			(uuid "17d4be34-5900-48c4-a3aa-fce51bba9f33")
+		)
+		(pin "6"
+			(uuid "05e94b8d-031a-4c66-b816-4b30b64aa4b3")
+		)
+		(pin "2"
+			(uuid "61dcc0ff-ce2c-4c02-9de8-20eae2573f9a")
+		)
+		(pin "1"
+			(uuid "e215f823-cf3f-4ffc-878e-0b6ae6e86352")
+		)
+		(instances
+			(project ""
+				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
+					(reference "U19")
 					(unit 1)
 				)
 			)
@@ -5167,199 +5346,6 @@
 		)
 	)
 	(symbol
-		(lib_id "TPS54202DDCR:TPS54202DDCR")
-		(at 68.58 139.7 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "44602620-9d13-4a80-96fc-cf93a1b47adf")
-		(property "Reference" "U14"
-			(at 68.58 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TPS54202DDCR"
-			(at 68.58 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TPS54202DDCR:SOT95P280X110-6N"
-			(at 68.58 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 68.58 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 68.58 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "77abcdc0-f7c3-47e9-90df-2c2e8d304c21")
-		)
-		(pin "3"
-			(uuid "b7168a99-46a6-441d-8a5a-73481f522bfd")
-		)
-		(pin "4"
-			(uuid "bd43515c-cf96-48c7-8999-338892c953d2")
-		)
-		(pin "6"
-			(uuid "af993c8d-6d7b-4eb8-ac2a-e554c5768cad")
-		)
-		(pin "5"
-			(uuid "26403adf-7678-4b57-a3f1-062364c1dd84")
-		)
-		(pin "1"
-			(uuid "dda2b6bb-76d8-4866-8f0d-5d9a35e13951")
-		)
-		(instances
-			(project "MNAPcb"
-				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
-					(reference "U14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "LMS78_15-1.0R:LMS78_15-1.0R")
-		(at 87.63 39.37 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "44b3af3e-4f9e-406f-9296-551dfa973353")
-		(property "Reference" "PS2"
-			(at 87.63 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LMS78_15-1.0R"
-			(at 87.63 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LMS78_15-1.0R:CONV_LMS78_15-1.0R"
-			(at 87.63 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 87.63 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 87.63 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "2023-1.3"
-			(at 87.63 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Gaptec"
-			(at 87.63 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "17.75mm"
-			(at 87.63 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 87.63 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "82477009-6e48-4196-8b38-358b2592425f")
-		)
-		(pin "1"
-			(uuid "d716be99-a6a8-4e44-9d54-b0c23aead0d5")
-		)
-		(pin "3"
-			(uuid "b4f5e1ad-32b4-4c6e-9e35-1defcf06e6b4")
-		)
-		(instances
-			(project ""
-				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
-					(reference "PS2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 255.27 52.07 0)
 		(unit 1)
@@ -5627,87 +5613,6 @@
 			(project ""
 				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
 					(reference "L3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "TPS54202DDCR:TPS54202DDCR")
-		(at 195.58 111.76 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5446e86e-bc92-4acc-b7e5-58338d02cf65")
-		(property "Reference" "U8"
-			(at 195.58 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TPS54202DDCR"
-			(at 195.58 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TPS54202DDCR:SOT95P280X110-6N"
-			(at 195.58 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 195.58 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 195.58 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "88e8ff95-a31e-4ba2-8c6b-fcce98d7eb2d")
-		)
-		(pin "3"
-			(uuid "76723212-aaa0-4c69-9700-420c9a639955")
-		)
-		(pin "4"
-			(uuid "73963131-64d0-47d3-a4f4-30edc7b72ab7")
-		)
-		(pin "6"
-			(uuid "8eda91b8-7d0e-4943-b1ce-6bdb2c0dec45")
-		)
-		(pin "5"
-			(uuid "f961dff0-0d29-47a4-b563-efa0c71c89a5")
-		)
-		(pin "1"
-			(uuid "ae46a94e-9115-4867-a058-74463e6fdbe0")
-		)
-		(instances
-			(project "MNAPcb"
-				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
-					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -6193,6 +6098,87 @@
 		)
 	)
 	(symbol
+		(lib_id "TPS54202DDCR:TPS54202DDCR")
+		(at 195.58 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "66b9bba7-58d6-47d4-bc55-d2f4f84d8d68")
+		(property "Reference" "U5"
+			(at 195.58 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TPS54202DDCR"
+			(at 195.58 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SOT95P280X110-6N"
+			(at 195.58 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 195.58 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "e4f7a4cc-cc3e-4c62-9562-ad31caf88541")
+		)
+		(pin "5"
+			(uuid "ec75f42f-ab7f-4147-917a-13763958f52d")
+		)
+		(pin "3"
+			(uuid "b1765159-de41-48c2-96d5-c47ea753c914")
+		)
+		(pin "6"
+			(uuid "074b5e59-7f0e-494d-a56f-47b1bba9eca4")
+		)
+		(pin "2"
+			(uuid "a2a96c6f-0f88-447e-9cc7-b866786aecfd")
+		)
+		(pin "1"
+			(uuid "2bf33d63-7c99-4e36-8eb0-23c7698b4d79")
+		)
+		(instances
+			(project "MNAPcb"
+				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 261.62 31.75 270)
 		(unit 1)
@@ -6320,6 +6306,72 @@
 			(project "MNAPcb"
 				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
 					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 120.65 71.12 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "722f0a85-1338-447e-b9b0-a2375f27e2d4")
+		(property "Reference" "#FLG08"
+			(at 120.65 73.025 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 120.65 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 120.65 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 120.65 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 120.65 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e8a99cbb-0a47-4d66-ba8f-d3461cbbf921")
+		)
+		(instances
+			(project "MNAPcb"
+				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
+					(reference "#FLG08")
 					(unit 1)
 				)
 			)
@@ -7090,6 +7142,87 @@
 		)
 	)
 	(symbol
+		(lib_id "TPS54202DDCR:TPS54202DDCR")
+		(at 68.58 139.7 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9f1bf47c-11eb-4c3e-a0fa-a82258545777")
+		(property "Reference" "U8"
+			(at 68.58 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TPS54202DDCR"
+			(at 68.58 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Library:SOT95P280X110-6N"
+			(at 68.58 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 68.58 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "fd893fce-19ec-4a94-bc90-945fb7bd8dc7")
+		)
+		(pin "5"
+			(uuid "7d04500b-3193-443c-a679-4be68328456a")
+		)
+		(pin "3"
+			(uuid "9ab46818-5d30-440c-9212-8065458ff914")
+		)
+		(pin "6"
+			(uuid "2563f2e7-6aa9-4c89-a960-391ec94f6f31")
+		)
+		(pin "2"
+			(uuid "b8955849-b2cd-4470-ae88-d77bdef343a0")
+		)
+		(pin "1"
+			(uuid "5edb0173-7609-4160-8264-e9a71d48cc6a")
+		)
+		(instances
+			(project "MNAPcb"
+				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
+					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 142.24 146.05 0)
 		(unit 1)
@@ -7357,87 +7490,6 @@
 			(project "MNAPcb"
 				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
 					(reference "#PWR055")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "TPS54202DDCR:TPS54202DDCR")
-		(at 187.96 45.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ad9eab61-ec58-4507-86d7-7b6b7f4565f8")
-		(property "Reference" "U5"
-			(at 187.96 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TPS54202DDCR"
-			(at 187.96 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "TPS54202DDCR:SOT95P280X110-6N"
-			(at 187.96 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 187.96 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 187.96 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "b71c03d6-1ddd-4b3f-acb5-0342c05dc4da")
-		)
-		(pin "3"
-			(uuid "2ed7096f-609c-46da-9c5e-fb10126418bd")
-		)
-		(pin "4"
-			(uuid "f7886fe9-8f33-4dd7-a5fa-70806bc8d7d5")
-		)
-		(pin "6"
-			(uuid "d5096c97-e5b3-4854-b5c1-24a1645ac94b")
-		)
-		(pin "5"
-			(uuid "d5263437-171e-462e-8b97-3107608531a9")
-		)
-		(pin "1"
-			(uuid "b4110864-5599-45df-86f3-ce91b0c3a8db")
-		)
-		(instances
-			(project ""
-				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
-					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -8131,6 +8183,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 118.11 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e914aebd-6db4-4834-96b0-e3a557ab01bc")
+		(property "Reference" "#FLG09"
+			(at 118.11 34.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 118.11 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 118.11 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 118.11 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 118.11 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8352931f-db8e-40ee-adf4-c0b28b63030a")
+		)
+		(instances
+			(project "MNAPcb"
+				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
+					(reference "#FLG09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:L_Iron_Small")
 		(at 109.22 134.62 90)
 		(unit 1)
@@ -8193,118 +8311,6 @@
 			(project "MNAPcb"
 				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
 					(reference "L4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "LMS78_15-1.0R_2")
-		(lib_id "LMS78_15-1.0R:LMS78_15-1.0R")
-		(at 88.9 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f5c5bdd7-7ccb-4015-b73b-fcdad2a8f4fc")
-		(property "Reference" "PS3"
-			(at 88.9 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LMS78_15-1.0R"
-			(at 88.9 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LMS78_15-1.0R:CONV_LMS78_15-1.0R"
-			(at 88.9 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 88.9 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 88.9 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "2023-1.3"
-			(at 88.9 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Gaptec"
-			(at 88.9 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "17.75mm"
-			(at 88.9 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "Manufacturer Recommendations"
-			(at 88.9 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "650226a2-1ebe-4654-b365-7c6520b5cb40")
-		)
-		(pin "3"
-			(uuid "4cdd9b16-04e0-4dca-9835-597555be957e")
-		)
-		(pin "1"
-			(uuid "f162130e-2f8d-40eb-84e4-e090fc3b8acd")
-		)
-		(instances
-			(project ""
-				(path "/967b973c-8996-4b89-97c9-3616b71a8152/1430bab7-d0d3-4658-81cb-f409abdb7ec2"
-					(reference "PS3")
 					(unit 1)
 				)
 			)

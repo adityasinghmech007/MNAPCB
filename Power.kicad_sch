@@ -2841,7 +2841,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 36.83) (xy 120.65 36.83)
+			(xy 118.11 36.83) (xy 128.27 36.83)
 		)
 		(stroke
 			(width 0)
@@ -3291,7 +3291,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 71.12) (xy 124.46 71.12)
+			(xy 120.65 71.12) (xy 130.81 71.12)
 		)
 		(stroke
 			(width 0)
@@ -4102,7 +4102,7 @@
 	)
 	(symbol
 		(lib_id "power:+15V")
-		(at 120.65 36.83 0)
+		(at 128.27 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4111,7 +4111,7 @@
 		(fields_autoplaced yes)
 		(uuid "09321a82-bf90-4c46-8db1-8f28cd670d9b")
 		(property "Reference" "#PWR045"
-			(at 120.65 40.64 0)
+			(at 128.27 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4120,7 +4120,7 @@
 			)
 		)
 		(property "Value" "+15V"
-			(at 120.65 31.75 0)
+			(at 128.27 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4128,7 +4128,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 36.83 0)
+			(at 128.27 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4137,7 +4137,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 36.83 0)
+			(at 128.27 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4146,7 +4146,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+15V\""
-			(at 120.65 36.83 0)
+			(at 128.27 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6319,7 +6319,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "722f0a85-1338-447e-b9b0-a2375f27e2d4")
 		(property "Reference" "#FLG08"
 			(at 120.65 73.025 0)
@@ -7707,7 +7706,7 @@
 	)
 	(symbol
 		(lib_id "power:-15V")
-		(at 124.46 71.12 0)
+		(at 130.81 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7716,7 +7715,7 @@
 		(fields_autoplaced yes)
 		(uuid "c9293f7e-c49b-4fe4-b88d-13f4f8eb754f")
 		(property "Reference" "#PWR046"
-			(at 124.46 74.93 0)
+			(at 130.81 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7725,7 +7724,7 @@
 			)
 		)
 		(property "Value" "-15V"
-			(at 124.46 66.04 0)
+			(at 130.81 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7733,7 +7732,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 71.12 0)
+			(at 130.81 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7742,7 +7741,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 71.12 0)
+			(at 130.81 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7751,7 +7750,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-15V\""
-			(at 124.46 71.12 0)
+			(at 130.81 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
